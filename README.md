@@ -1,7 +1,7 @@
 # Hi there, I'm Gülten Ece Öz 👋
 
 🎮 **Game & Animation Master's Student**  
-🌿 Passionate about **Game Design, 3D Modeling, Animation and Illustration**  
+📚 Passionate about **Game Design, 3D Modeling, Animation and Illustration**  
 📍 Ankara, Türkiye
 
 ---
