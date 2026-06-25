@@ -1,16 +1,113 @@
-## Hi there 👋
+# Hi there, I'm Gülten Ece Öz 👋
 
-<!--
-**EceOz22/EceOz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Game & Animation Master's Student**  
+🌿 Passionate about **Game Design, 3D Modeling, Animation and Illustration**  
+📍 Ankara, Türkiye
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Master's student in **Computer Animation & Game Technologies** at Hacettepe University
+- 🎨 Interested in Level Design, Animation and 3D Modeling
+- 🎮 Currently developing games and animations using **Unreal Engine 5** and **Blender** 
+- 📚 I am focusing on further developing my modeling, animation and illustration skills at the moment
+
+---
+
+## 🛠️ Skills
+
+| Engine | Art | Programming |
+|--------|------|-------------|-------|
+| Unreal Engine 5 | Blender | C# | Unity |
+| Maya| GDevelop | Clip Studio Paint | Procreate |
+| Vicon Blade | Blueprint | Python|
+
+---
+
+## 🚀 Featured Projects
+
+### 🐱 The Last Trail (Unreal Engine)
+
+Narrative-driven indie adventure game:
+**Role:** Creative Director & Game Designer
+
+### My Contributions
+
+- Designed the game levels
+- Created collectible inventory items with custom 2D artwork
+- Implemented gameplay interactions using Unreal Engine Blueprints
+- Designed environmental obstacles including falling trees and collapsing stairs
+- Created cutscene animations.
+- Created storyboards for the game
+- Collaborated through GitHub in a team-based development workflow
+
+---
+## 🐝 Bee Learning Game (Unity)
+
+Educational mobile game developed as part of my senior project.
+
+### My Contributions
+
+- Designed gameplay flow
+- Implemented drag & drop mechanics
+- Developed timer and level management
+- Connected the Unity game to a Flutter application using WebGL
+
+---
+## 🃏 Card Game (Unity)
+
+I developed this game during my second internship at Pixofun.
+
+A game developed with Unity including:
+
+- Implemented game logic
+- Created UI panels
+- Designed menu system
+- Win/Lose screens
+- Card interactions
+---
+### 🪄 Botanic Brewing 
+
+A game developed with GDevelop including:
+
+- Inventory System
+- Physics Objects
+- Plant growing and farming mechanics 
+
+---
+### 🔮 Magical Escape
+
+A game developed with GDevelop including:
+
+- Platform mechanics
+- Scene transitions
+
+---
+
+### 🐦 Angry Birds Physics Clone
+
+A physics-based Angry Birds style project developed in Unreal Engine.
+
+Features:
+
+- Slingshot mechanic
+- Physics simulation
+- Pig AI
+- Destroyable structures
+
+---
+
+## 📚 3D Art and Modeling Portfolio
+
+You can reach my work here: ece_oz.artstation.com
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn www.linkedin.com/in/g-ece-öz-19a537234
+- 🎨 ArtStation ece_oz.artstation.com
+---
+
+⭐ Thanks for visiting my profile!
