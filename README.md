@@ -14,7 +14,13 @@
 - 📚 I am focusing on further developing my modeling, animation and illustration skills at the moment
 
 ---
+## 📫 My Socials
 
+- 💼 LinkedIn www.linkedin.com/in/g-ece-öz-19a537234
+- 🎨 ArtStation ece_oz.artstation.com
+- ✉️ Gmail: 
+
+---
 ## 🛠️ Skills
 
 | Engine | Art | Programming |
@@ -103,11 +109,4 @@ Features:
 You can reach my work here: ece_oz.artstation.com
 
 ---
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn www.linkedin.com/in/g-ece-öz-19a537234
-- 🎨 ArtStation ece_oz.artstation.com
----
-
 ⭐ Thanks for visiting my profile!
