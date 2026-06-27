@@ -66,13 +66,14 @@ Educational mobile game developed as part of my senior project.
 I developed this game during my second internship at Pixofun.
 
 <img width="620" height="352" alt="Image" src="https://github.com/user-attachments/assets/2a82ebc5-8587-4025-b6f6-b8b907416601" />
-A game developed with Unity including:
 
+A game developed with Unity including:
 - Implemented game logic
 - Created UI panels
 - Designed menu system
 - Win/Lose screens
 - Card interactions
+
   <img width="675" height="378" alt="Image" src="https://github.com/user-attachments/assets/7bc7454b-b6c9-4a20-8b90-ddfa0ec0080c" />
   
   <img width="1396" height="707" alt="Image" src="https://github.com/user-attachments/assets/182d0400-0f9c-4875-851c-0f944b3184c9" />
