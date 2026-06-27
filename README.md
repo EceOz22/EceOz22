@@ -16,8 +16,8 @@
 ---
 ## 📫 My Socials
 
-- 💼 LinkedIn www.linkedin.com/in/g-ece-öz-19a537234
-- 🎨 ArtStation ece_oz.artstation.com
+- 💼 LinkedIn: www.linkedin.com/in/g-ece-öz-19a537234
+- 🎨 ArtStation: https://ece_oz.artstation.com/
 - ✉️ Gmail: 
 
 ---
