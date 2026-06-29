@@ -24,6 +24,7 @@
 ## 🛠️ Skills
 
 | Engine | Art | Programming |
+
 |--------|------|-------------|-------|
 | Unreal Engine 5 | Blender | C# | Unity |
 | Maya| GDevelop | Clip Studio Paint | Procreate |
@@ -122,7 +123,7 @@ Features:
 
 ## 📚 3D Art and Modeling Portfolio
 
-You can reach my work here: ece_oz.artstation.com
+You can reach my work here:  https://ece_oz.artstation.com/
 
 ---
 ⭐ Thanks for visiting my profile!
