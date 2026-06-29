@@ -91,21 +91,27 @@ A game developed with Unity including:
 ---
 ### 🪄 Botanic Brewing 
 
+<img width="1279" height="718" alt="Image" src="https://github.com/user-attachments/assets/993b6013-4617-48da-830a-6b204be8afa2" />
+
 A game developed with GDevelop including:
 
 - Inventory System
 - Physics Objects
-- Plant growing and farming mechanics 
-
+- Plant growing and farming mechanics
+  
+<img width="1282" height="713" alt="Image" src="https://github.com/user-attachments/assets/8263ed65-a8d5-4b31-9de6-e575027703da" />
+<img width="1276" height="713" alt="Image" src="https://github.com/user-attachments/assets/5cf15eed-1adc-4bfc-b021-043647c7a623" />
+<img width="1291" height="717" alt="Image" src="https://github.com/user-attachments/assets/0bb4b92b-e922-4856-8eb5-15328fe0bb25" />
 ---
 ### 🔮 Magical Escape
 
-<img width="1278" height="718" alt="Image" src="https://github.com/user-attachments/assets/87844bfc-c220-4b8a-9c57-4354e73bb524" />
+<img width="1728" height="1004" alt="Image" src="https://github.com/user-attachments/assets/c4f9a45b-1533-48de-af37-b9336f66da72" />
 
 A game developed with GDevelop including:
 - Platform mechanics
 - Scene transitions
-
+  
+<img width="1278" height="718" alt="Image" src="https://github.com/user-attachments/assets/87844bfc-c220-4b8a-9c57-4354e73bb524" />
 ---
 
 ### 🐦 Angry Birds Physics Clone
