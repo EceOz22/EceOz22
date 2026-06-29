@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 ### 🐱 The Last Trail (Unreal Engine)
 
@@ -70,6 +70,7 @@ Educational mobile game developed as part of my senior project.
 
 <img width="845" height="468" alt="Image" src="https://github.com/user-attachments/assets/93db6984-88a0-4fbd-930c-b21022556e04" />
 
+
 ---
 ## 🃏 Card Game (Unity)
 
@@ -87,7 +88,8 @@ A game developed with Unity including:
  <img width="675" height="378" alt="Image" src="https://github.com/user-attachments/assets/7bc7454b-b6c9-4a20-8b90-ddfa0ec0080c" />
   
 <img width="1124" height="693" alt="Image" src="https://github.com/user-attachments/assets/a64229cc-f552-44e3-afbe-fb40996f5997" />
-  
+
+
 ---
 ### 🪄 Botanic Brewing 
 
@@ -102,6 +104,8 @@ A game developed with GDevelop including:
 <img width="1282" height="713" alt="Image" src="https://github.com/user-attachments/assets/8263ed65-a8d5-4b31-9de6-e575027703da" />
 <img width="1276" height="713" alt="Image" src="https://github.com/user-attachments/assets/5cf15eed-1adc-4bfc-b021-043647c7a623" />
 <img width="1291" height="717" alt="Image" src="https://github.com/user-attachments/assets/0bb4b92b-e922-4856-8eb5-15328fe0bb25" />
+
+
 ---
 ### 🔮 Magical Escape
 
@@ -112,6 +116,8 @@ A game developed with GDevelop including:
 - Scene transitions
   
 <img width="1278" height="718" alt="Image" src="https://github.com/user-attachments/assets/87844bfc-c220-4b8a-9c57-4354e73bb524" />
+
+
 ---
 
 ### 🐦 Angry Birds Physics Clone
