@@ -38,6 +38,8 @@
 Narrative-driven indie adventure game:
 **Role:** Creative Director & Game Designer
 
+https://youtu.be/wj77cBVNz6o
+
 ### My Contributions
 
 - Designed the game levels
@@ -47,6 +49,8 @@ Narrative-driven indie adventure game:
 - Created cutscene animations.
 - Created storyboards for the game
 - Collaborated through GitHub in a team-based development workflow
+
+
 
 ---
 ## 🐝 Bee Learning Game (Unity)
