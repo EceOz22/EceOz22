@@ -38,7 +38,9 @@
 Narrative-driven indie adventure game:
 **Role:** Creative Director & Game Designer
 
-https://youtu.be/wj77cBVNz6o
+<img width="1728" height="895" alt="Image" src="https://github.com/user-attachments/assets/b5869182-d86b-4da7-8ca1-bc0c5d85b090" />
+
+Game play demo of the game: https://youtu.be/eCWSarqO9_c
 
 ### My Contributions
 
@@ -50,12 +52,13 @@ https://youtu.be/wj77cBVNz6o
 - Created storyboards for the game
 - Collaborated through GitHub in a team-based development workflow
 
-
+City and house level desing showoff: https://youtu.be/ImUudaE7In8
 
 ---
 ## 🐝 Bee Learning Game (Unity)
 
 Educational mobile game developed as part of my senior project.
+<img width="1158" height="648" alt="Image" src="https://github.com/user-attachments/assets/90053d53-9f4f-487f-bdf9-5d99314323cf" />
 
 ### My Contributions
 
@@ -63,6 +66,8 @@ Educational mobile game developed as part of my senior project.
 - Implemented drag & drop mechanics
 - Developed timer and level management
 - Connected the Unity game to a Flutter application using WebGL
+
+<img width="845" height="468" alt="Image" src="https://github.com/user-attachments/assets/93db6984-88a0-4fbd-930c-b21022556e04" />
 
 ---
 ## 🃏 Card Game (Unity)
@@ -94,8 +99,9 @@ A game developed with GDevelop including:
 ---
 ### 🔮 Magical Escape
 
-A game developed with GDevelop including:
+<img width="1278" height="718" alt="Image" src="https://github.com/user-attachments/assets/87844bfc-c220-4b8a-9c57-4354e73bb524" />
 
+A game developed with GDevelop including:
 - Platform mechanics
 - Scene transitions
 
