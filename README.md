@@ -122,7 +122,7 @@ A game developed with GDevelop including:
 
 ### 🐦 Angry Birds Physics Clone
 
-A physics-based Angry Birds style project developed in Unreal Engine.
+A physics-based Angry Birds style project developed using PyGame.
 
 Features:
 
